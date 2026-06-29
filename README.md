@@ -56,6 +56,8 @@
 
 ---
 
+bot link https://jamalimdbot-def9e411a00f.herokuapp.com/pair
+
 ## 🚀 FEATURES
 
 ### 📋 MAIN FEATURES
