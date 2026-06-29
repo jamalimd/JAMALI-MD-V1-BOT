@@ -108,7 +108,7 @@ https://wa.me/255784062158
 
 Channel
 
-https://whatsapp.com/channel/0029VaXzK9LbFzzz4XKxzW3J
+Follow the 𝗝𝗔𝗠𝗔𝗟𝗜 𝗧𝗘𝗖𝗛 𝗘𝗠𝗣𝗜𝗥𝗘 channel on WhatsApp: https://whatsapp.com/channel/0029VbC7AgJK5cD71vGIpO3h
 
 Support Group
 
