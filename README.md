@@ -1,135 +1,116 @@
 # 🤖 JAMALI MD V1 - WhatsApp Bot
 
 <p align="center">
-  <img src="https://files.catbox.moe/2bx073.jpg" alt="JAMALI MD V1" width="450"/>
+<img src="https://files.catbox.moe/2bx073.jpg" width="450">
 </p>
 
 <h1 align="center">⚡ JAMALI MD V1 ⚡</h1>
 
 <p align="center">
-A Powerful Multi-Device WhatsApp Bot Built with Node.js & Baileys
+The Ultimate Multi Device WhatsApp Bot Built With Node.js & Baileys
 </p>
 
 <p align="center">
-  <a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT">
-    <img src="https://img.shields.io/github/stars/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&color=yellow"/>
-  </a>
-
-  <a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT/network/members">
-    <img src="https://img.shields.io/github/forks/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&color=blue"/>
-  </a>
-
-  <a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT/issues">
-    <img src="https://img.shields.io/github/issues/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&color=red"/>
-  </a>
-
-  <a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&color=green"/>
-  </a>
+<a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT"><img src="https://img.shields.io/github/stars/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&logo=github&color=yellow"></a>
+<a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT/network/members"><img src="https://img.shields.io/github/forks/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&logo=github&color=blue"></a>
+<a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT/issues"><img src="https://img.shields.io/github/issues/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&color=red"></a>
+<a href="https://github.com/jamalimd/JAMALI-MD-V1-BOT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jamalimd/JAMALI-MD-V1-BOT?style=for-the-badge&color=green"></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Baileys-Latest-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Heroku-Ready-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp">
+<img src="https://img.shields.io/badge/NodeJS-Latest-339933?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Baileys-Latest-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Heroku-Ready-430098?style=for-the-badge&logo=heroku">
+<img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb">
 </p>
 
 ---
 
-# 🚀 Pair Your Bot
+# 🚀 PAIR YOUR BOT
 
-## 🔗 Pair Website
+<p align="center">
+<a href="https://jamalimdbot-def9e411a00f.herokuapp.com/pair">
+<img src="https://files.catbox.moe/2bx073.jpg" width="650">
+</a>
+</p>
 
-### Click Here 👇
+<p align="center">
 
-https://jamalimdbot-def9e411a00f.herokuapp.com/pair
+<a href="https://jamalimdbot-def9e411a00f.herokuapp.com/pair">
+<img src="https://img.shields.io/badge/PAIR%20BOT-success?style=for-the-badge&logo=whatsapp">
+</a>
 
----
-
-## 📲 HOW TO CONNECT
-
-### STEP 1
-
-Open the Pair Website.
-
-### STEP 2
-
-Enter your WhatsApp number.
-
-Example
-
-255784XXXXXX
-
-Do NOT use:
-
-+255784XXXXXX
-
-or
-
-0784XXXXXX
+</p>
 
 ---
 
-### STEP 3
+# 👥 SUPPORT GROUP
 
-Click **Generate Pair Code**.
-
----
-
-### STEP 4
-
-Open WhatsApp.
-
-Go to
-
-Settings → Linked Devices → Link a Device → Link with Phone Number Instead
+<p align="center">
+<a href="https://chat.whatsapp.com/GPdlJ8ip88K39E5Hok7rJh">
+<img src="https://img.shields.io/badge/JOIN%20GROUP-blue?style=for-the-badge&logo=whatsapp">
+</a>
+</p>
 
 ---
 
-### STEP 5
+# 📢 WHATSAPP CHANNEL
 
-Paste the Pair Code.
-
-Your Bot will connect successfully within a few seconds.
-
----
-
-# ❗ Need Help?
-
-If you experience any problem during pairing, deployment or bot setup, contact the owner.
-
-👑 Owner
-
-WhatsApp
-
-https://wa.me/255784062158
-
-Channel
-
-https://whatsapp.com/channel/0029VaXzK9LbFzzz4XKxzW3J
-
-Support Group
-
-https://chat.whatsapp.com/GPdlJ8ip88K39E5Hok7rJh
+<p align="center">
+<a href="https://whatsapp.com/channel/0029VaXzK9LbFzzz4XKxzW3J">
+<img src="https://img.shields.io/badge/FOLLOW%20CHANNEL-green?style=for-the-badge&logo=whatsapp">
+</a>
+</p>
 
 ---
 
-# ⚡ JAMALI MD V1
+# 📖 ABOUT
 
-✔ Fast
+JAMALI MD V1 is one of the fastest Multi Device WhatsApp Bots built using Node.js and Baileys.
 
-✔ Stable
+## Features
 
-✔ Secure
+- AI Chat
+- ChatGPT
+- Gemini AI
+- Logo Maker
+- Downloaders
+- Group Manager
+- Auto Status View
+- Auto React
+- Auto Follow Channel
+- Auto Join Groups
+- Anti Delete
+- Anti Link
+- Anti Call
+- Auto Typing
+- Auto Recording
+- Welcome & Goodbye
+- Sticker Maker
+- QR Scanner
+- URL Shortener
+- Weather
+- Calculator
+- Dictionary
+- Translation
+- Games
+- Memes
+- Quotes
+- Owner Commands
+- Admin Commands
+- Utility Commands
+- 1296+ Commands
 
-✔ Multi Device
+---
 
-✔ AI Powered
+# 📦 INSTALLATION
 
-✔ Easy Deployment
+```bash
+git clone https://github.com/jamalimd/JAMALI-MD-V1-BOT
 
-✔ 24/7 Online
+cd JAMALI-MD-V1-BOT
 
-✔ 1296+ Commands
+npm install
+
+npm start
